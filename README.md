@@ -3,7 +3,7 @@
 
 | Question | Solution(s) | Tag(s) |
 |----------|-------------|--------|
-|[Name of the Problem](https://leetcode.com/problems/name-of-the-problem/)| [Sol]() | relevant tag|
+|[Check if the Sentence Is Pangram](https://leetcode.com/problems/name-of-the-problem/)| [Sol]() | Strings|
 
 
 
