@@ -2,9 +2,9 @@
 
 | Question | Solution(s) | Tag(s) |
 |----------|-------------|--------|
-|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)| [Sol](./src/easy/mehrab_pangram_day1.py) | string|
-|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Sol](./src/easy/mehrab_find_numbers_with_even_digits_day2.py) | 
-|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Sol](./src/easy/mehrab_XOR Operation in an Array_day3.py)
+|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)| [Sol1](./src/easy/mehrab_pangram_day1.py) | string|
+|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Sol1](./src/easy/mehrab_find_numbers_with_even_digits_day2.py) | 
+|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Sol1](./src/easy/mehrab_XOR Operation in an Array_day3.py)
 
 # Contributor👩‍💻
 
