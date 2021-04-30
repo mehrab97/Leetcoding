@@ -9,7 +9,7 @@
 |[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Sol](https://github.com/mehrab97/Leetcoding/blob/7c0c77b6218711c112d0c7393f52552963b9826c/src/easy/mehrab_Richest_Customer_Wealth_day5.py)
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Sol](https://github.com/mehrab97/Leetcoding/blob/9875e8ca1472882bb76fb32881e4b45f7a8d8a2a/src/easy/mehrab_Running_Sum_of_1d_Array_day6.py)
 |[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Sol](https://github.com/mehrab97/Leetcoding/blob/eea8bd5f93cc204c0087fd461d6f3e02af5a4afd/src/easy/mehrab_Ransom%20Note_day7.py)
-|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Sol]
+|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Sol](https://github.com/mehrab97/Leetcoding/blob/16156494dc56c96ece12b72ee004fc2911068925/src/easy/mehrab_Assign%20Cookies_day8.py)
 
 # Contributor👩‍💻
 
